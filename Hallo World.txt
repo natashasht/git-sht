@@ -7,7 +7,10 @@ print ("prosto Hallo2")
 
 
 
-print ("Hello my dear friend")
+
+print ("Hello my dear friend2")
+
+
 
 
 
