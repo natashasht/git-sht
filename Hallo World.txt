@@ -2,4 +2,16 @@ print ("Hallo World;")
 print ("Hallo everybody;")
 print ("Hallo;")
 
+
 print ("prosto Hallo2;")
+
+
+
+print ("Hello my dear friend;")
+
+
+
+
+
+print ("Glad to see you;")
+
