@@ -3,3 +3,7 @@ print ("Hallo everybody")
 print ("Hallo")
 
 print ("prosto Hallo2")
+
+
+
+print ("Hallo my dear friend2")
