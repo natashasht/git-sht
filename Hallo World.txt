@@ -1,3 +1,5 @@
 print ("Hallo World")
 print ("Hallo everybody")
 print ("Hallo")
+
+print ("prosto Hallo2")
