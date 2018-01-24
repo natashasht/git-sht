@@ -7,3 +7,9 @@ print ("prosto Hallo2")
 
 
 print ("Hello my dear friend")
+
+
+
+
+
+print ("Glad to see you")
